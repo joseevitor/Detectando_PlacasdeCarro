@@ -10,7 +10,7 @@ Pipeline completo de **Visão Computacional** e **OCR (Reconhecimento Óptico de
 
 O projeto foi construído de forma incremental, testando e comparando diferentes técnicas clássicas de processamento de imagem (thresholding, morfologia, detecção de bordas/contornos, transformação de perspectiva) antes de chegar em uma solução mais robusta.
 
----
+
 
 ## Habilidades e Tecnologias Demonstradas
 
@@ -30,7 +30,7 @@ O projeto foi construído de forma incremental, testando e comparando diferentes
 | **Ambiente** | Google Colab, instalação e configuração de dependências via linha de comando (`apt`, `pip`, `wget`) |
 | **Boas práticas exploradas** | Análise exploratória visual (histograma de intensidade de pixels), comparação empírica entre técnicas, documentação incremental do raciocínio |
 
----
+
 
 ## Visão Geral do Pipeline
 
