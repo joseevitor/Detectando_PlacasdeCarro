@@ -88,6 +88,5 @@ E o Tesseract OCR instalado no sistema, com o pacote de idioma português (`por.
 
 Ao longo do desenvolvimento, os desafios e decisões técnicas foram documentados diretamente no notebook, incluindo tentativas que não funcionaram e o raciocínio por trás dos ajustes de parâmetros — reforçando um processo iterativo e experimental típico de projetos de visão computacional aplicada.
 
----
 
  *Projeto de estudo focado em Visão Computacional clássica, demonstrando domínio de técnicas fundamentais de processamento de imagem para resolver um problema real de OCR aplicado a placas veiculares.*
